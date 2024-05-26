@@ -28,7 +28,7 @@ def Config_Sensor_Archivo(file_path):
 def Sensor_Humo(sensor_id):
     context = zmq.Context()
     socket = context.socket(zmq.PUSH)
-    socket.connect("tcp://localhost:5555")
+    socket.connect("tcp://localhost:5556")
 
     while True:
         detecta_humo = random.choice([True, False])  # Simula la detección de humo de manera aleatoria

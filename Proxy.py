@@ -29,7 +29,6 @@ def guardar_dato(mensaje):
     with open("datos_sensores.txt", "a") as archivo:
         archivo.write(mensaje + "\n")
 
-
 def enviar_mensaje(socket, mensaje):
     """Envía un mensaje y actualiza las estadísticas."""
     global mensajes_enviados, tamaño_mensajes_enviados
@@ -38,11 +37,9 @@ def enviar_mensaje(socket, mensaje):
     tamaño_mensajes_enviados += len(mensaje_bytes)
     socket.send_string(mensaje)
 
-
-
 def procesar_mensaje(mensaje):
     """Procesa el mensaje recibido de un sensor."""
-    global mensajes_enviados, alertas_generadas
+    global mensajes_enviados, alertas_generadas, datos_mal_formados
     
     try:
         partes = mensaje.split(', ')
@@ -59,8 +56,6 @@ def procesar_mensaje(mensaje):
             if valor < 0:
                 raise ValueError("Valor negativo")
         
-
-    
         # Guardar cada medición recibida para persistencia
         guardar_dato(mensaje)
         
@@ -69,25 +64,19 @@ def procesar_mensaje(mensaje):
             temperaturas.append(temperatura)
             if temperatura > 29.4:  # Umbral de alerta de temperatura
                 alerta = f"Alerta alta temperatura: {temperatura}° sensor: {sensor_id} a las {time.ctime(float(timestamp))}"
-                #Agregar otro print para quitar el error °
                 print(alerta)
-                sender_cloud.send_string(alerta)
                 alertas_generadas["temperatura"] += 1
-                #mensajes_enviados += 1
                 enviar_mensaje(sender_cloud, alerta)
                 guardar_dato(alerta)
 
         elif tipo == "humedad":
             humedad = float(valor)
             humedades.append(humedad)
-            # Aquí añadir lógica para la humedad
-        
+
         elif tipo == "humo" and valor == "True":
             alerta = f"Actuador aspersor activado por sensor {sensor_id} a las {time.ctime(float(timestamp))}\n"
             print(alerta)
-            sender_aspersor.send_string(alerta)  # Activar el actuador aspersor
             alertas_generadas["humo"] += 1
-            #mensajes_enviados += 1
             enviar_mensaje(sender_aspersor, alerta)
 
     except ValueError as e:
@@ -95,18 +84,18 @@ def procesar_mensaje(mensaje):
         datos_mal_formados += 1
         return  # No procesar este mensaje
 
-
 def calcular_publicar_promedios():
     """Calcula y publica el promedio de temperaturas y humedades."""
     while True:
         if temperaturas:
             promedio_temp = sum(temperaturas) / len(temperaturas)
             print(f"\n----------------Promedio de temperatura: {promedio_temp}°----------------\n")
-        time.sleep(10)
         if humedades:
             promedio_hum = sum(humedades) / len(humedades)
             print(f"\n----------------Promedio de humedad: {promedio_hum}%----------------\n")
-        time.sleep(5)
+            mensaje_promedio_hum = f"Promedio de humedad: {promedio_hum}%"
+            enviar_mensaje(sender_cloud, mensaje_promedio_hum)
+        time.sleep(5)  # Calcular cada 10 segundos
 
 # Iniciar el cálculo y publicación de promedios en un hilo separado
 threading.Thread(target=calcular_publicar_promedios, daemon=True).start()
