@@ -24,4 +24,15 @@ El sistema consta de varios componentes, incluyendo sensores de humo, temperatur
 
 ## Implementación
 
-La comu
+La comunicación entre los componentes se realiza utilizando ZeroMQ con un modelo Pipeline para los sensores y proxies, y un patrón request-reply para la comunicación entre las capas. Se implementa una arquitectura tolerante a fallas para garantizar la continuidad del sistema.
+
+## Rendimiento del Sistema
+
+Se realizarán pruebas de rendimiento para medir la cantidad de mensajes enviados, los tiempos de comunicación y la cantidad de alertas generadas. Se evaluarán diferentes escenarios para determinar la eficiencia del sistema y posibles mejoras en su diseño.
+
+## Entregas y Evaluación
+
+El proyecto se divide en dos entregas principales, donde se evaluará el diseño, implementación y rendimiento del sistema. Se utilizará una rúbrica para evaluar cada componente del proyecto y su cumplimiento con los requisitos establecidos.
+
+Para más detalles sobre la implementación, pruebas y evaluación del sistema, consulte la documentación proporcionada.
+
