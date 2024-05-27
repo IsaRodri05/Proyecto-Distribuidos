@@ -26,3 +26,10 @@ El sistema consta de varios componentes, incluyendo sensores de humo, temperatur
 
 La comunicación entre los componentes se realiza utilizando ZeroMQ con un modelo Pipeline para los sensores y proxies, y un patrón request-reply para la comunicación entre las capas. Se implementa una arquitectura tolerante a fallas para garantizar la continuidad del sistema.
 
+## Guia para ejecutarlo
+
+Primero debe disponer de un pc con python y zeroMQ instalado, para posteriormente correr los siguientes comandos cada uno en una terminal distinta:
+- python Sensor.py -t <0, 1  ó 2 dependiendo de que tipo de sensor quiere ejecutar> -f <archivo de configuracion (el que se provee de ejemplo se llama Configuration.txt>
+- python Proxy.py
+- python Cloud.py
+
