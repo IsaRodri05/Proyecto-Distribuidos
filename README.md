@@ -33,3 +33,8 @@ Primero debe disponer de un pc con python y zeroMQ instalado, para posteriorment
 - python Proxy.py
 - python Cloud.py
 
+
+Llamado de sistema calidad:
+- python SistemaCalidad.py -p 5559 capa proxy
+- python SistemaCalidad.py -p 5560  capa cloud
+
