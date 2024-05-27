@@ -15,6 +15,9 @@ sender_cloud.connect("tcp://localhost:5556")  # Capa Cloud
 sender_aspersor = context.socket(zmq.PUSH)
 sender_aspersor.connect("tcp://localhost:5557")  # Actuador Aspersor
 
+# Configuración para enviar alertas al Sistema de Calidad
+sender_calidad = context.socket(zmq.REQ)
+sender_calidad.connect("tcp://localhost:5559")  # Sistema de calidad en la capa Fog
 
 # Buffers para mantener las últimas N temperaturas y humedades
 temperaturas = deque(maxlen=10)
@@ -44,6 +47,12 @@ def enviar_mensaje(socket, mensaje):
     socket.send_string(mensaje)
     fin = time.time()
     tiempos_comunicacion.append(fin - inicio)
+
+def enviar_alerta_calidad(mensaje):
+    """Envía una alerta al Sistema de Calidad y espera una respuesta."""
+    sender_calidad.send_string(mensaje)
+    respuesta = sender_calidad.recv_string()
+    print(f"Respuesta del sistema de calidad: {respuesta}")
 
 def procesar_mensaje(mensaje):
     """Procesa el mensaje recibido de un sensor."""
@@ -76,16 +85,25 @@ def procesar_mensaje(mensaje):
                 alertas_generadas["temperatura"] += 1
                 enviar_mensaje(sender_cloud, alerta)
                 guardar_dato(alerta)
+                # Enviar alerta al sistema de calidad
+                enviar_alerta_calidad(alerta)
 
         elif tipo == "humedad":
             humedad = float(valor)
             humedades.append(humedad)
+            # Enviar humedad al cloud
+            mensaje_humedad = f"Promedio de humedad: {humedad}%"
+            enviar_mensaje(sender_cloud, mensaje_humedad)
 
         elif tipo == "humo" and valor == "True":
             alerta = f"Actuador aspersor activado por sensor {sensor_id} a las {time.ctime(float(timestamp))}\n"
             print(alerta)
             alertas_generadas["humo"] += 1
             enviar_mensaje(sender_aspersor, alerta)
+            enviar_mensaje(sender_cloud, alerta)
+            guardar_dato(alerta)
+            # Enviar alerta al sistema de calidad
+            enviar_alerta_calidad(alerta)
 
     except ValueError as e:
         print(f"Error al procesar el mensaje: {e}")
