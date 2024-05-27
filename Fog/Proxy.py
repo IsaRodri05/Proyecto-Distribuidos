@@ -2,6 +2,7 @@ import zmq
 import time
 from collections import deque
 import threading
+import statistics
 
 # Configuración inicial de ZeroMQ para recibir datos de los sensores
 context = zmq.Context()
@@ -14,6 +15,7 @@ sender_cloud.connect("tcp://localhost:5556")  # Capa Cloud
 sender_aspersor = context.socket(zmq.PUSH)
 sender_aspersor.connect("tcp://localhost:5557")  # Actuador Aspersor
 
+
 # Buffers para mantener las últimas N temperaturas y humedades
 temperaturas = deque(maxlen=10)
 humedades = deque(maxlen=10)
@@ -23,6 +25,7 @@ mensajes_enviados = 0
 tamaño_mensajes_enviados = 0  # Tamaño total en bytes (sin usar)
 alertas_generadas = {"temperatura": 0, "humo": 0}
 datos_mal_formados = 0  # Contador de datos con formato incorrecto
+tiempos_comunicacion = []  # Para almacenar los tiempos de comunicación
 
 def guardar_dato(mensaje):
     """Guarda el dato recibido en un archivo de texto."""
@@ -35,7 +38,12 @@ def enviar_mensaje(socket, mensaje):
     mensajes_enviados += 1
     mensaje_bytes = mensaje.encode('utf-8')
     tamaño_mensajes_enviados += len(mensaje_bytes)
+    
+    # Medir el tiempo de envío
+    inicio = time.time()
     socket.send_string(mensaje)
+    fin = time.time()
+    tiempos_comunicacion.append(fin - inicio)
 
 def procesar_mensaje(mensaje):
     """Procesa el mensaje recibido de un sensor."""
@@ -95,7 +103,17 @@ def calcular_publicar_promedios():
             print(f"\n----------------Promedio de humedad: {promedio_hum}%----------------\n")
             mensaje_promedio_hum = f"Promedio de humedad: {promedio_hum}%"
             enviar_mensaje(sender_cloud, mensaje_promedio_hum)
-        time.sleep(5)  # Calcular cada 10 segundos
+        time.sleep(5)  # Calcular cada 5 segundos
+
+def mostrar_estadisticas_comunicacion():
+    """Muestra las estadísticas de tiempos de comunicación."""
+    if tiempos_comunicacion:
+        promedio = statistics.mean(tiempos_comunicacion)
+        desviacion = statistics.stdev(tiempos_comunicacion) if len(tiempos_comunicacion) > 1 else 0
+        print(f"\nPromedio de tiempos de comunicación: {promedio:.6f} segundos")
+        print(f"Desviación estándar de tiempos de comunicación: {desviacion:.6f} segundos\n")
+    else:
+        print("No hay tiempos de comunicación registrados.")
 
 # Iniciar el cálculo y publicación de promedios en un hilo separado
 threading.Thread(target=calcular_publicar_promedios, daemon=True).start()
@@ -111,7 +129,7 @@ except KeyboardInterrupt:
     print(f"-Tamaño total de mensajes enviados: {tamaño_mensajes_enviados} bytes")
     for tipo, cantidad in alertas_generadas.items():
         print(f"-Alertas de {tipo}: {cantidad}")
-        
     print(f"*Datos con mal formato recibidos: {datos_mal_formados}")
+    mostrar_estadisticas_comunicacion()
 except Exception as e:
     print(f"Error: {e}")

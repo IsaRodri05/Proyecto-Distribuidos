@@ -1,611 +1,209 @@
-Promedio de humedad: 71.85101166047407%
-Promedio de humedad: 74.0676102359308%
-Promedio de humedad: 79.76517251536588%
-Promedio de humedad: 75.0122052014276%
-Promedio de humedad: 70.60634456068658%
-Promedio de humedad: 72.06710144851147%
-Promedio de humedad: 69.72178695187037%
-Promedio de humedad: 78.72944387897198%
-Promedio de humedad: 74.18275048571022%
-Promedio de humedad: 76.72788052659367%
-Promedio de humedad: 73.22172031938264%
-Promedio de humedad: 74.97633387814469%
-Promedio de humedad: 74.12025061033896%
-Promedio de humedad: 76.52498252541162%
-Promedio de humedad: 73.1569140383942%
-Promedio de humedad: 75.5306085851657%
-Promedio de humedad: 75.62105366489445%
-Promedio de humedad: 78.26693920256001%
-Promedio de humedad: 77.92426778827198%
-Promedio de humedad: 74.57496480303645%
-Promedio de humedad: 76.62826241675741%
-Promedio de humedad: 75.13629795369472%
-Promedio de humedad: 75.59059551496432%
-Promedio de humedad: 75.4935005005231%
-Promedio de humedad: 75.41618967591603%
-Promedio de humedad: 81.84990257539583%
-Promedio de humedad: 71.46425692305971%
-Promedio de humedad: 76.0132100295506%
-Promedio de humedad: 70.77836474695164%
-Promedio de humedad: 72.71672163223214%
-Promedio de humedad: 75.40005732176184%
-Promedio de humedad: 70.20785916916482%
-Promedio de humedad: 76.05010062957865%
-Promedio de humedad: 74.36531275809514%
-Promedio de humedad: 70.4776300041267%
-Promedio de humedad: 73.73585830311954%
-Promedio de humedad: 72.79619903854214%
-Promedio de humedad: 73.92262968659689%
-Promedio de humedad: 82.38724170214569%
-Promedio de humedad: 73.07334002594806%
-Promedio de humedad: 72.38995869848517%
-Promedio de humedad: 73.02706171242751%
-Promedio de humedad: 75.44301515064795%
-Promedio mensual de humedad: 73.74323587142676%
-Promedio de humedad: 74.70521757923807%
-Promedio de humedad: 73.69411712967066%
-Promedio de humedad: 74.88347214081497%
-Promedio de humedad: 76.33593022725071%
-Promedio de humedad: 78.13489299515992%
-Promedio de humedad: 81.39295746106646%
-Promedio de humedad: 78.66180638928783%
-Promedio mensual de humedad: 78.44983950738676%
-Promedio de humedad: 77.81238574922531%
-Promedio de humedad: 78.30969605399541%
-Promedio de humedad: 73.60533904861862%
-Promedio de humedad: 76.00878061294168%
-Promedio mensual de humedad: 76.43405036619527%
-Promedio de humedad: 73.27287358690278%
-Promedio de humedad: 70.45482426201723%
-Promedio de humedad: 74.00767619890613%
-Promedio de humedad: 77.23111093614068%
-Promedio mensual de humedad: 73.7416212459917%
-Promedio de humedad: 77.97390667619538%
-Promedio de humedad: 75.60148442036851%
-Promedio de humedad: 75.4338972690232%
-Promedio de humedad: 77.21264060988946%
-Promedio mensual de humedad: 76.55548224386914%
-Promedio de humedad: 76.43197950296083%
-Promedio de humedad: 76.66241883760178%
-Promedio de humedad: 73.81634329354908%
-Promedio de humedad: 71.57901603992683%
-Promedio mensual de humedad: 74.62243941850963%
-Promedio de humedad: 76.09545760534937%
-Promedio de humedad: 75.7818352045203%
-Promedio de humedad: 77.82219591858976%
-Promedio de humedad: 75.26309437874866%
-Promedio mensual de humedad: 76.24064577680203%
-Promedio de humedad: 75.52222361410327%
-Promedio de humedad: 77.08358229847315%
-Promedio de humedad: 75.45889382507195%
-Promedio de humedad: 76.39801705742107%
-Promedio mensual de humedad: 76.11567919876737%
-Promedio de humedad: 77.48526817940049%
-Promedio mensual de humedad: 77.48526817940049%
-Promedio de humedad: 76.25840699735485%
-Promedio de humedad: 75.29844699573356%
-Promedio de humedad: 73.1558797057788%
-Promedio de humedad: 75.91929053289982%
-Promedio de humedad: 79.35058339352149%
-Promedio de humedad: 76.77046382230012%
-Promedio mensual de humedad: 76.12551190793143%
-Promedio de humedad: 78.94366472136164%
-Promedio de humedad: 76.26046348746755%
-Promedio de humedad: 70.94149989928239%
-Promedio de humedad: 71.15315910860215%
-Promedio mensual de humedad: 74.32469680417843%
-Promedio de humedad: 74.15875502179529%
-Promedio de humedad: 78.2711815760661%
-Promedio de humedad: 79.45585650443385%
-Promedio de humedad: 80.1628121803097%
-Promedio mensual de humedad: 78.01215132065124%
-Promedio de humedad: 78.04157655574417%
-Promedio de humedad: 79.02480522253691%
-Promedio de humedad: 79.5055721561484%
-Promedio de humedad: 77.65844703530874%
-Promedio mensual de humedad: 78.55760024243455%
-Promedio de humedad: 76.97652786431645%
-Promedio de humedad: 73.4274478041917%
-Promedio de humedad: 77.06702898187811%
-Promedio de humedad: 72.86305704080605%
-Promedio mensual de humedad: 75.08351542279809%
-Promedio de humedad: 80.15133631654341%
-Promedio de humedad: 73.73366803905506%
-Promedio de humedad: 72.3566404101883%
-Promedio de humedad: 75.74981629142637%
-Promedio mensual de humedad: 75.49786526430329%
-Promedio de humedad: 77.8639197040969%
-Promedio de humedad: 81.14085885987046%
-Promedio de humedad: 77.8385428662115%
-Promedio de humedad: 73.50639480236148%
-Promedio mensual de humedad: 77.58742905813509%
-Promedio de humedad: 75.9927471286278%
-Promedio de humedad: 79.5243388895233%
-Promedio de humedad: 72.74061658570187%
-Promedio de humedad: 78.69681339968004%
-Promedio mensual de humedad: 76.73862900088325%
-Promedio de humedad: 74.55357878717754%
-Promedio de humedad: 77.56114695882201%
-Promedio de humedad: 76.97702544865629%
-Promedio de humedad: 74.84270360416191%
-Promedio mensual de humedad: 75.98361369970443%
-Promedio de humedad: 75.08946004460185%
-Promedio de humedad: 74.45714905428038%
-Promedio de humedad: 78.56853021587523%
-Promedio de humedad: 78.6430531867958%
-Promedio de humedad: 74.03402045938468%
-Promedio de humedad: 73.35279207604941%
-Promedio mensual de humedad: 76.14959898452628%
-Promedio de humedad: 73.78954491043115%
-Promedio de humedad: 79.05926001616672%
-Promedio de humedad: 73.37027289717714%
-Promedio de humedad: 78.84626253973951%
-Promedio mensual de humedad: 76.26633509087864%
-Promedio de humedad: 78.2819082701503%
-Promedio de humedad: 75.82802824203338%
-Promedio de humedad: 75.0987789679306%
-Promedio de humedad: 80.31783751421021%
-Promedio mensual de humedad: 77.38163824858113%
-Promedio de humedad: 78.53914205498823%
-Promedio de humedad: 78.99849091170583%
-Promedio de humedad: 73.64260493569617%
-Promedio de humedad: 78.93937581299078%
-Promedio mensual de humedad: 77.52990342884524%
-Promedio de humedad: 76.35825489787204%
-Promedio de humedad: 71.61016892253177%
-Promedio de humedad: 76.02937058284792%
-Promedio de humedad: 72.26400199241452%
-Promedio mensual de humedad: 74.06544909891656%
-Promedio de humedad: 83.69970952813465%
-Promedio de humedad: 79.8113793574163%
-sensor_id: 1, tipo: humo, valor: True, timestamp: 1716689490.1100967
-sensor_id: 2, tipo: humo, valor: True, timestamp: 1716689490.1364539
-sensor_id: 3, tipo: humo, valor: True, timestamp: 1716689490.1533751
-sensor_id: 4, tipo: humo, valor: False, timestamp: 1716689490.171346
-sensor_id: 5, tipo: humo, valor: True, timestamp: 1716689490.188425
-sensor_id: 6, tipo: humo, valor: True, timestamp: 1716689490.2055469
-sensor_id: 7, tipo: humo, valor: True, timestamp: 1716689490.2340255
-sensor_id: 8, tipo: humo, valor: False, timestamp: 1716689490.2489939
-sensor_id: 9, tipo: humo, valor: False, timestamp: 1716689490.2661362
-sensor_id: 10, tipo: humo, valor: True, timestamp: 1716689490.2852428
-sensor_id: 1, tipo: humo, valor: False, timestamp: 1716689493.1376073
-sensor_id: 2, tipo: humo, valor: False, timestamp: 1716689493.1536653
-sensor_id: 7, tipo: humo, valor: False, timestamp: 1716689493.2777238
-sensor_id: 6, tipo: humo, valor: False, timestamp: 1716689494.2393513
-sensor_id: 10, tipo: humo, valor: False, timestamp: 1716689494.2869883
-Promedio de humedad: 77.07632869914978%
-sensor_id: 3, tipo: humo, valor: False, timestamp: 1716689495.185307
-sensor_id: 8, tipo: humo, valor: True, timestamp: 1716689495.2932038
-sensor_id: 4, tipo: humo, valor: False, timestamp: 1716689496.177484
-sensor_id: 5, tipo: humo, valor: False, timestamp: 1716689496.208971
-sensor_id: 9, tipo: humo, valor: False, timestamp: 1716689496.3013377
-sensor_id: 2, tipo: humo, valor: True, timestamp: 1716689497.1550817
-sensor_id: 6, tipo: humo, valor: True, timestamp: 1716689498.2493339
-sensor_id: 8, tipo: humo, valor: False, timestamp: 1716689498.2966435
-sensor_id: 10, tipo: humo, valor: False, timestamp: 1716689498.2966435
-sensor_id: 1, tipo: humo, valor: False, timestamp: 1716689499.148993
-sensor_id: 3, tipo: humo, valor: False, timestamp: 1716689499.1950026
-sensor_id: 7, tipo: humo, valor: False, timestamp: 1716689499.2877061
-Promedio de humedad: 74.99172719460859%
-sensor_id: 9, tipo: humo, valor: True, timestamp: 1716689500.3038552
-sensor_id: 2, tipo: humo, valor: True, timestamp: 1716689501.1576686
-sensor_id: 5, tipo: humo, valor: True, timestamp: 1716689501.2194638
-sensor_id: 6, tipo: humo, valor: True, timestamp: 1716689501.250133
-Promedio mensual de humedad: 78.89478619482733%
-sensor_id: 4, tipo: humo, valor: True, timestamp: 1716689502.1804996
-sensor_id: 3, tipo: humo, valor: True, timestamp: 1716689502.1957383
-sensor_id: 1, tipo: humo, valor: False, timestamp: 1716689503.156982
-sensor_id: 7, tipo: humo, valor: False, timestamp: 1716689503.2960322
-sensor_id: 10, tipo: humo, valor: False, timestamp: 1716689503.3116643
-sensor_id: 9, tipo: humo, valor: False, timestamp: 1716689503.3116643
-sensor_id: 5, tipo: humo, valor: False, timestamp: 1716689504.2255552
-sensor_id: 8, tipo: humo, valor: False, timestamp: 1716689504.303379
-Promedio de humedad: 75.95081953675205%
-sensor_id: 2, tipo: humo, valor: True, timestamp: 1716689505.1666653
-sensor_id: 6, tipo: humo, valor: False, timestamp: 1716689506.2638245
-sensor_id: 4, tipo: humo, valor: False, timestamp: 1716689507.1897428
-sensor_id: 3, tipo: humo, valor: True, timestamp: 1716689507.2058885
-sensor_id: 5, tipo: humo, valor: True, timestamp: 1716689508.2321258
-sensor_id: 9, tipo: humo, valor: False, timestamp: 1716689508.3253376
-sensor_id: 10, tipo: humo, valor: True, timestamp: 1716689508.3253376
-sensor_id: 1, tipo: humo, valor: True, timestamp: 1716689509.1705608
-sensor_id: 7, tipo: humo, valor: True, timestamp: 1716689509.3092015
-sensor_id: 8, tipo: humo, valor: True, timestamp: 1716689509.3092015
-Promedio de humedad: 77.66540157841095%
-sensor_id: 2, tipo: humo, valor: False, timestamp: 1716689510.1744854
-sensor_id: 6, tipo: humo, valor: True, timestamp: 1716689510.2674582
-sensor_id: 1, tipo: humo, valor: False, timestamp: 1716689512.1739335
-sensor_id: 4, tipo: humo, valor: False, timestamp: 1716689512.2052076
-sensor_id: 3, tipo: humo, valor: True, timestamp: 1716689512.2210083
-sensor_id: 10, tipo: humo, valor: True, timestamp: 1716689512.3291814
-sensor_id: 5, tipo: humo, valor: False, timestamp: 1716689513.2447991
-sensor_id: 6, tipo: humo, valor: True, timestamp: 1716689513.2758791
-sensor_id: 9, tipo: humo, valor: False, timestamp: 1716689513.3370743
-sensor_id: 2, tipo: humo, valor: True, timestamp: 1716689514.1793926
-sensor_id: 8, tipo: humo, valor: False, timestamp: 1716689514.3198223
-Promedio de humedad: 76.44845288668%
-sensor_id: 7, tipo: humo, valor: True, timestamp: 1716689515.3118699
-sensor_id: 10, tipo: humo, valor: True, timestamp: 1716689515.3425837
-sensor_id: 1, tipo: humo, valor: False, timestamp: 1716689516.1838691
-sensor_id: 3, tipo: humo, valor: True, timestamp: 1716689516.230328
-sensor_id: 5, tipo: humo, valor: False, timestamp: 1716689517.2508833
-sensor_id: 4, tipo: humo, valor: False, timestamp: 1716689518.212619
-sensor_id: 6, tipo: humo, valor: True, timestamp: 1716689518.2908328
-sensor_id: 9, tipo: humo, valor: False, timestamp: 1716689518.3525305
-sensor_id: 2, tipo: humo, valor: True, timestamp: 1716689519.1922722
-sensor_id: 3, tipo: humo, valor: False, timestamp: 1716689519.2395036
-Promedio de humedad: 73.14453197352911%
-sensor_id: 5, tipo: humo, valor: True, timestamp: 1716689520.2629375
-sensor_id: 8, tipo: humo, valor: False, timestamp: 1716689520.3257189
-sensor_id: 7, tipo: humo, valor: False, timestamp: 1716689521.3193378
-sensor_id: 10, tipo: humo, valor: True, timestamp: 1716689521.3503418
-Promedio mensual de humedad: 75.80230149384303%
-sensor_id: 1, tipo: humo, valor: True, timestamp: 1716689522.189328
-sensor_id: 2, tipo: humo, valor: False, timestamp: 1716689522.2047174
-sensor_id: 3, tipo: humo, valor: False, timestamp: 1716689522.251221
-sensor_id: 6, tipo: humo, valor: False, timestamp: 1716689523.302282
-sensor_id: 4, tipo: humo, valor: True, timestamp: 1716689524.2219687
-sensor_id: 9, tipo: humo, valor: False, timestamp: 1716689524.3619556
-Promedio de humedad: 74.98660602446327%
-sensor_id: 1, tipo: humo, valor: False, timestamp: 1716689525.2031786
-sensor_id: 5, tipo: humo, valor: True, timestamp: 1716689525.2650418
-sensor_id: 8, tipo: humo, valor: False, timestamp: 1716689525.3262725
-sensor_id: 7, tipo: humo, valor: False, timestamp: 1716689526.3357434
-sensor_id: 3, tipo: humo, valor: True, timestamp: 1716689527.2606325
-sensor_id: 10, tipo: humo, valor: True, timestamp: 1716689527.3533394
-sensor_id: 2, tipo: humo, valor: True, timestamp: 1716689528.2093253
-sensor_id: 4, tipo: humo, valor: False, timestamp: 1716689528.2253098
-sensor_id: 5, tipo: humo, valor: False, timestamp: 1716689529.2663896
-sensor_id: 6, tipo: humo, valor: False, timestamp: 1716689529.3115158
-Promedio de humedad: 75.2637776836849%
-sensor_id: 9, tipo: humo, valor: False, timestamp: 1716689530.3679898
-sensor_id: 1, tipo: humo, valor: True, timestamp: 1716689531.2163823
-sensor_id: 8, tipo: humo, valor: True, timestamp: 1716689531.3409982
-sensor_id: 2, tipo: humo, valor: True, timestamp: 1716689532.2233458
-sensor_id: 3, tipo: humo, valor: False, timestamp: 1716689532.2697043
-sensor_id: 5, tipo: humo, valor: True, timestamp: 1716689532.2697043
-sensor_id: 7, tipo: humo, valor: True, timestamp: 1716689532.3469865
-sensor_id: 10, tipo: humo, valor: True, timestamp: 1716689532.3623824
-sensor_id: 4, tipo: humo, valor: False, timestamp: 1716689534.2299914
-sensor_id: 1, tipo: humo, valor: True, timestamp: 1716689534.2299914
-sensor_id: 6, tipo: humo, valor: True, timestamp: 1716689534.3237457
-Promedio de humedad: 74.78576987934471%
-sensor_id: 10, tipo: humo, valor: True, timestamp: 1716689535.363667
-sensor_id: 2, tipo: humo, valor: True, timestamp: 1716689536.22676
-sensor_id: 7, tipo: humo, valor: False, timestamp: 1716689536.3484662
-sensor_id: 8, tipo: humo, valor: True, timestamp: 1716689536.3484662
-sensor_id: 9, tipo: humo, valor: True, timestamp: 1716689536.3792603
-sensor_id: 6, tipo: humo, valor: True, timestamp: 1716689537.3264122
-sensor_id: 1, tipo: humo, valor: False, timestamp: 1716689538.241185
-sensor_id: 5, tipo: humo, valor: False, timestamp: 1716689538.2725089
-sensor_id: 3, tipo: humo, valor: False, timestamp: 1716689538.2725089
-sensor_id: 4, tipo: humo, valor: True, timestamp: 1716689539.2372882
-Promedio de humedad: 76.0650568002115%
-sensor_id: 10, tipo: humo, valor: True, timestamp: 1716689540.3657138
-sensor_id: 2, tipo: humo, valor: False, timestamp: 1716689541.2280693
-sensor_id: 7, tipo: humo, valor: True, timestamp: 1716689541.3505597
-Promedio mensual de humedad: 75.2753025969261%
-sensor_id: 5, tipo: humo, valor: False, timestamp: 1716689542.2788494
-sensor_id: 8, tipo: humo, valor: False, timestamp: 1716689542.3568263
-sensor_id: 9, tipo: humo, valor: True, timestamp: 1716689542.388201
-sensor_id: 3, tipo: humo, valor: True, timestamp: 1716689543.273686
-sensor_id: 6, tipo: humo, valor: True, timestamp: 1716689543.3355908
-sensor_id: 10, tipo: humo, valor: False, timestamp: 1716689543.3820288
-sensor_id: 1, tipo: humo, valor: True, timestamp: 1716689544.2527268
-Promedio de humedad: 74.36037690992734%
-sensor_id: 2, tipo: humo, valor: True, timestamp: 1716689545.2315857
-sensor_id: 4, tipo: humo, valor: False, timestamp: 1716689545.2467983
-sensor_id: 5, tipo: humo, valor: True, timestamp: 1716689545.2929418
-sensor_id: 3, tipo: humo, valor: True, timestamp: 1716689546.2809398
-sensor_id: 6, tipo: humo, valor: False, timestamp: 1716689547.3377757
-sensor_id: 7, tipo: humo, valor: True, timestamp: 1716689547.3533692
-sensor_id: 10, tipo: humo, valor: True, timestamp: 1716689547.383857
-sensor_id: 9, tipo: humo, valor: True, timestamp: 1716689547.4001915
-Promedio de humedad: 81.62910746291796%
-sensor_id: 8, tipo: humo, valor: True, timestamp: 1716689548.36172
-sensor_id: 1, tipo: humo, valor: True, timestamp: 1716689550.2672212
-sensor_id: 4, tipo: humo, valor: False, timestamp: 1716689551.2598474
-sensor_id: 5, tipo: humo, valor: False, timestamp: 1716689551.3074598
-sensor_id: 3, tipo: humo, valor: True, timestamp: 1716689552.2958176
-sensor_id: 8, tipo: humo, valor: True, timestamp: 1716689552.3732243
-sensor_id: 9, tipo: humo, valor: False, timestamp: 1716689552.4040887
-sensor_id: 2, tipo: humo, valor: False, timestamp: 1716689553.2406957
-sensor_id: 6, tipo: humo, valor: False, timestamp: 1716689553.3489513
-sensor_id: 7, tipo: humo, valor: True, timestamp: 1716689553.3642213
-sensor_id: 10, tipo: humo, valor: True, timestamp: 1716689553.3959055
-Promedio de humedad: 77.15472220419899%
-sensor_id: 4, tipo: humo, valor: True, timestamp: 1716689555.2652924
-sensor_id: 3, tipo: humo, valor: True, timestamp: 1716689555.2967477
-sensor_id: 8, tipo: humo, valor: False, timestamp: 1716689555.389044
-sensor_id: 9, tipo: humo, valor: True, timestamp: 1716689555.4198134
-sensor_id: 1, tipo: humo, valor: True, timestamp: 1716689556.2832227
-sensor_id: 5, tipo: humo, valor: False, timestamp: 1716689557.3222518
-sensor_id: 7, tipo: humo, valor: False, timestamp: 1716689557.3680942
-sensor_id: 10, tipo: humo, valor: True, timestamp: 1716689557.398517
-sensor_id: 2, tipo: humo, valor: True, timestamp: 1716689558.2515736
-sensor_id: 4, tipo: humo, valor: True, timestamp: 1716689558.2670271
-sensor_id: 6, tipo: humo, valor: False, timestamp: 1716689558.360676
-sensor_id: 1, tipo: humo, valor: False, timestamp: 1716689559.29232
-sensor_id: 8, tipo: humo, valor: False, timestamp: 1716689559.4003413
-sensor_id: 9, tipo: humo, valor: True, timestamp: 1716689559.4313898
-Promedio de humedad: 74.03783582507778%
-sensor_id: 3, tipo: humo, valor: True, timestamp: 1716689560.3029213
-sensor_id: 10, tipo: humo, valor: False, timestamp: 1716689560.4114883
-sensor_id: 4, tipo: humo, valor: False, timestamp: 1716689562.2676246
-sensor_id: 5, tipo: humo, valor: False, timestamp: 1716689562.3299663
-sensor_id: 3, tipo: humo, valor: True, timestamp: 1716689563.3156784
-sensor_id: 7, tipo: humo, valor: False, timestamp: 1716689563.377262
-sensor_id: 2, tipo: humo, valor: False, timestamp: 1716689564.2637186
-sensor_id: 1, tipo: humo, valor: False, timestamp: 1716689564.295565
-sensor_id: 6, tipo: humo, valor: True, timestamp: 1716689564.373753
-Promedio de humedad: 72.60420685631134%
-sensor_id: 8, tipo: humo, valor: False, timestamp: 1716689565.4062521
-sensor_id: 10, tipo: humo, valor: True, timestamp: 1716689565.4217925
-sensor_id: 9, tipo: humo, valor: False, timestamp: 1716689565.4379082
-sensor_id: 4, tipo: humo, valor: True, timestamp: 1716689567.2684398
-sensor_id: 2, tipo: humo, valor: False, timestamp: 1716689567.2684398
-sensor_id: 6, tipo: humo, valor: False, timestamp: 1716689567.3783367
-sensor_id: 3, tipo: humo, valor: True, timestamp: 1716689568.3232589
-sensor_id: 5, tipo: humo, valor: True, timestamp: 1716689568.33912
-sensor_id: 7, tipo: humo, valor: False, timestamp: 1716689568.3845286
-sensor_id: 9, tipo: humo, valor: False, timestamp: 1716689568.445671
-sensor_id: 1, tipo: humo, valor: True, timestamp: 1716689569.2989128
-Promedio mensual de humedad: 76.35646808712652%
-Promedio de humedad: 77.63461949049493%
-sensor_id: 8, tipo: humo, valor: False, timestamp: 1716689570.4157736
-sensor_id: 5, tipo: humo, valor: True, timestamp: 1716689571.3452482
-sensor_id: 10, tipo: humo, valor: True, timestamp: 1716689571.4379315
-sensor_id: 9, tipo: humo, valor: True, timestamp: 1716689571.4540493
-sensor_id: 2, tipo: humo, valor: False, timestamp: 1716689572.270566
-sensor_id: 1, tipo: humo, valor: False, timestamp: 1716689572.300996
-sensor_id: 3, tipo: humo, valor: True, timestamp: 1716689572.3321388
-sensor_id: 4, tipo: humo, valor: False, timestamp: 1716689573.2695167
-sensor_id: 7, tipo: humo, valor: True, timestamp: 1716689573.3938856
-sensor_id: 6, tipo: humo, valor: True, timestamp: 1716689573.3938856
-sensor_id: 8, tipo: humo, valor: False, timestamp: 1716689573.4255104
-sensor_id: 9, tipo: humo, valor: False, timestamp: 1716689574.4600728
-Promedio de humedad: 77.15672197075563%
-sensor_id: 3, tipo: humo, valor: True, timestamp: 1716689575.3414402
-sensor_id: 4, tipo: humo, valor: True, timestamp: 1716689576.2710514
-sensor_id: 2, tipo: humo, valor: False, timestamp: 1716689576.287145
-sensor_id: 5, tipo: humo, valor: True, timestamp: 1716689576.3490589
-sensor_id: 7, tipo: humo, valor: True, timestamp: 1716689576.396433
-sensor_id: 8, tipo: humo, valor: False, timestamp: 1716689576.4278696
-sensor_id: 10, tipo: humo, valor: False, timestamp: 1716689576.4439557
-sensor_id: 1, tipo: humo, valor: False, timestamp: 1716689578.3072968
-sensor_id: 3, tipo: humo, valor: False, timestamp: 1716689578.3536026
-sensor_id: 4, tipo: humo, valor: True, timestamp: 1716689579.2847586
-sensor_id: 7, tipo: humo, valor: False, timestamp: 1716689579.409902
-sensor_id: 6, tipo: humo, valor: False, timestamp: 1716689579.409902
-Promedio de humedad: 74.17574056773142%
-sensor_id: 10, tipo: humo, valor: True, timestamp: 1716689580.4502282
-sensor_id: 9, tipo: humo, valor: True, timestamp: 1716689580.466568
-sensor_id: 2, tipo: humo, valor: True, timestamp: 1716689581.2951405
-sensor_id: 5, tipo: humo, valor: True, timestamp: 1716689581.3586507
-sensor_id: 8, tipo: humo, valor: True, timestamp: 1716689581.4353404
-sensor_id: 7, tipo: humo, valor: True, timestamp: 1716689582.4210598
-sensor_id: 2, tipo: humo, valor: True, timestamp: 1716689584.3073487
-Promedio de humedad: 76.91215633873811%
-sensor_id: 8, tipo: humo, valor: False, timestamp: 1716689584.4454525
-sensor_id: 4, tipo: humo, valor: False, timestamp: 1716689584.291353
-sensor_id: 1, tipo: humo, valor: False, timestamp: 1716689584.3224165
-sensor_id: 10, tipo: humo, valor: False, timestamp: 1716689584.4601812
-sensor_id: 5, tipo: humo, valor: True, timestamp: 1716689585.3747075
-sensor_id: 6, tipo: humo, valor: True, timestamp: 1716689585.4211805
-sensor_id: 7, tipo: humo, valor: False, timestamp: 1716689585.436237
-sensor_id: 9, tipo: humo, valor: False, timestamp: 1716689585.4680846
-sensor_id: 2, tipo: humo, valor: True, timestamp: 1716689587.3119948
-sensor_id: 1, tipo: humo, valor: True, timestamp: 1716689588.331993
-sensor_id: 5, tipo: humo, valor: False, timestamp: 1716689588.3788776
-sensor_id: 3, tipo: humo, valor: False, timestamp: 1716689588.3788776
-sensor_id: 6, tipo: humo, valor: False, timestamp: 1716689589.4366796
-sensor_id: 8, tipo: humo, valor: True, timestamp: 1716689589.4519625
-Promedio de humedad: 75.83471387090512%
-sensor_id: 4, tipo: humo, valor: False, timestamp: 1716689590.3029778
-sensor_id: 7, tipo: humo, valor: False, timestamp: 1716689590.4426613
-sensor_id: 10, tipo: humo, valor: True, timestamp: 1716689590.4749148
-sensor_id: 1, tipo: humo, valor: False, timestamp: 1716689591.3453417
-sensor_id: 5, tipo: humo, valor: False, timestamp: 1716689591.3919446
-sensor_id: 9, tipo: humo, valor: False, timestamp: 1716689591.4696696
-sensor_id: 8, tipo: humo, valor: True, timestamp: 1716689592.4624104
-sensor_id: 2, tipo: humo, valor: True, timestamp: 1716689593.3199437
-sensor_id: 6, tipo: humo, valor: False, timestamp: 1716689593.445582
-sensor_id: 4, tipo: humo, valor: True, timestamp: 1716689594.3075929
-sensor_id: 3, tipo: humo, valor: False, timestamp: 1716689594.384593
-sensor_id: 5, tipo: humo, valor: True, timestamp: 1716689594.3996353
-sensor_id: 7, tipo: humo, valor: True, timestamp: 1716689594.4466207
-Promedio de humedad: 78.03544749603158%
-sensor_id: 10, tipo: humo, valor: False, timestamp: 1716689595.4893076
-sensor_id: 4, tipo: humo, valor: True, timestamp: 1716689597.3195014
-sensor_id: 2, tipo: humo, valor: True, timestamp: 1716689597.335364
-sensor_id: 1, tipo: humo, valor: False, timestamp: 1716689597.350951
-sensor_id: 6, tipo: humo, valor: True, timestamp: 1716689597.4582307
-sensor_id: 9, tipo: humo, valor: True, timestamp: 1716689597.4747794
-sensor_id: 8, tipo: humo, valor: True, timestamp: 1716689597.4747794
-sensor_id: 5, tipo: humo, valor: True, timestamp: 1716689598.401874
-sensor_id: 7, tipo: humo, valor: False, timestamp: 1716689599.455054
-Promedio de humedad: 75.35731876315417%
-sensor_id: 2, tipo: humo, valor: False, timestamp: 1716689600.3400376
-sensor_id: 3, tipo: humo, valor: False, timestamp: 1716689600.3858087
-sensor_id: 9, tipo: humo, valor: True, timestamp: 1716689600.4798603
-sensor_id: 4, tipo: humo, valor: True, timestamp: 1716689601.3310776
-sensor_id: 10, tipo: humo, valor: False, timestamp: 1716689601.50078
-sensor_id: 1, tipo: humo, valor: False, timestamp: 1716689602.3521278
-sensor_id: 7, tipo: humo, valor: False, timestamp: 1716689602.461673
-sensor_id: 5, tipo: humo, valor: True, timestamp: 1716689603.4077346
-sensor_id: 6, tipo: humo, valor: False, timestamp: 1716689603.4677706
-sensor_id: 8, tipo: humo, valor: True, timestamp: 1716689603.4836602
-sensor_id: 3, tipo: humo, valor: False, timestamp: 1716689604.396117
-Promedio mensual de humedad: 76.53490911720725%
-Promedio de humedad: 78.41248195939924%
-sensor_id: 2, tipo: humo, valor: True, timestamp: 1716689605.345845
-sensor_id: 1, tipo: humo, valor: False, timestamp: 1716689605.361537
-sensor_id: 10, tipo: humo, valor: False, timestamp: 1716689605.5167475
-sensor_id: 4, tipo: humo, valor: False, timestamp: 1716689606.3348327
-sensor_id: 7, tipo: humo, valor: False, timestamp: 1716689606.4745796
-sensor_id: 6, tipo: humo, valor: False, timestamp: 1716689606.4745796
-sensor_id: 8, tipo: humo, valor: False, timestamp: 1716689606.4898217
-sensor_id: 9, tipo: humo, valor: True, timestamp: 1716689606.4898217
-sensor_id: 5, tipo: humo, valor: False, timestamp: 1716689607.4206622
-sensor_id: 1, tipo: humo, valor: False, timestamp: 1716689608.3632717
-sensor_id: 10, tipo: humo, valor: False, timestamp: 1716689608.5185082
-sensor_id: 4, tipo: humo, valor: False, timestamp: 1716689609.3417897
-sensor_id: 2, tipo: humo, valor: True, timestamp: 1716689609.3569233
-sensor_id: 3, tipo: humo, valor: True, timestamp: 1716689609.4025962
-sensor_id: 6, tipo: humo, valor: True, timestamp: 1716689609.48061
-sensor_id: 9, tipo: humo, valor: False, timestamp: 1716689609.4957836
-Promedio de humedad: 78.40177739348526%
-sensor_id: 2, tipo: humo, valor: False, timestamp: 1716689612.3610904
-sensor_id: 5, tipo: humo, valor: False, timestamp: 1716689612.422503
-sensor_id: 7, tipo: humo, valor: False, timestamp: 1716689612.4850512
-sensor_id: 8, tipo: humo, valor: False, timestamp: 1716689612.50035
-sensor_id: 1, tipo: humo, valor: True, timestamp: 1716689613.3718185
-sensor_id: 3, tipo: humo, valor: True, timestamp: 1716689613.417033
-sensor_id: 9, tipo: humo, valor: True, timestamp: 1716689613.5116389
-sensor_id: 10, tipo: humo, valor: False, timestamp: 1716689613.5275114
-sensor_id: 6, tipo: humo, valor: False, timestamp: 1716689614.4891272
-Promedio de humedad: 67.37135968517948%
-sensor_id: 4, tipo: humo, valor: False, timestamp: 1716689615.3562922
-sensor_id: 2, tipo: humo, valor: False, timestamp: 1716689616.3621888
-sensor_id: 3, tipo: humo, valor: True, timestamp: 1716689617.42945
-sensor_id: 5, tipo: humo, valor: False, timestamp: 1716689617.42945
-sensor_id: 8, tipo: humo, valor: True, timestamp: 1716689617.5065982
-sensor_id: 7, tipo: humo, valor: False, timestamp: 1716689618.5005465
-sensor_id: 9, tipo: humo, valor: False, timestamp: 1716689618.5165973
-sensor_id: 1, tipo: humo, valor: True, timestamp: 1716689619.383703
-sensor_id: 6, tipo: humo, valor: False, timestamp: 1716689619.491273
-sensor_id: 10, tipo: humo, valor: False, timestamp: 1716689619.5373747
-Promedio de humedad: 77.29564092038056%
-sensor_id: 8, tipo: humo, valor: True, timestamp: 1716689620.5101745
-sensor_id: 4, tipo: humo, valor: True, timestamp: 1716689621.3595383
-sensor_id: 2, tipo: humo, valor: False, timestamp: 1716689621.3743842
-sensor_id: 5, tipo: humo, valor: True, timestamp: 1716689622.4303126
-sensor_id: 3, tipo: humo, valor: True, timestamp: 1716689622.4303126
-sensor_id: 9, tipo: humo, valor: True, timestamp: 1716689622.5226142
-sensor_id: 6, tipo: humo, valor: False, timestamp: 1716689623.4966125
-sensor_id: 4, tipo: humo, valor: False, timestamp: 1716689624.3653173
-sensor_id: 7, tipo: humo, valor: True, timestamp: 1716689624.5038874
-Promedio mensual de humedad: 75.37031498961113%
-sensor_id: 10, tipo: humo, valor: True, timestamp: 1716689625.5380876
-sensor_id: 5, tipo: humo, valor: True, timestamp: 1716689626.439542
-sensor_id: 8, tipo: humo, valor: False, timestamp: 1716689626.5189939
-sensor_id: 1, tipo: humo, valor: False, timestamp: 1716689625.3856564
-sensor_id: 3, tipo: humo, valor: True, timestamp: 1716689625.4457226
-sensor_id: 9, tipo: humo, valor: True, timestamp: 1716689625.5380876
-sensor_id: 2, tipo: humo, valor: True, timestamp: 1716689627.3857694
-sensor_id: 6, tipo: humo, valor: True, timestamp: 1716689627.5113554
-Promedio de humedad: 72.96843290006933%
-Promedio de humedad: 74.94629238018724%
-Promedio de humedad: 74.00381753205858%
-sensor_id: 2, tipo: humo, valor: False, timestamp: 1716689632.3954926
-sensor_id: 2, tipo: humo, valor: False, timestamp: 1716689638.4086852
-sensor_id: 2, tipo: humo, valor: False, timestamp: 1716689642.4151201
-sensor_id: 1, tipo: humo, valor: False, timestamp: 1716689633.4089432
-sensor_id: 6, tipo: humo, valor: True, timestamp: 1716689630.521632
-sensor_id: 8, tipo: humo, valor: False, timestamp: 1716689632.5358722
-sensor_id: 5, tipo: humo, valor: False, timestamp: 1716689631.4487214
-sensor_id: 9, tipo: humo, valor: True, timestamp: 1716689630.5527542
-sensor_id: 10, tipo: humo, valor: True, timestamp: 1716689631.5430567
-sensor_id: 7, tipo: humo, valor: True, timestamp: 1716689630.5065796
-sensor_id: 3, tipo: humo, valor: False, timestamp: 1716689630.460428
-sensor_id: 1, tipo: humo, valor: True, timestamp: 1716689636.4192185
-sensor_id: 6, tipo: humo, valor: True, timestamp: 1716689634.5297296
-sensor_id: 8, tipo: humo, valor: True, timestamp: 1716689635.5378804
-sensor_id: 5, tipo: humo, valor: False, timestamp: 1716689635.459313
-sensor_id: 9, tipo: humo, valor: True, timestamp: 1716689634.5613563
-sensor_id: 10, tipo: humo, valor: False, timestamp: 1716689634.545662
-sensor_id: 7, tipo: humo, valor: True, timestamp: 1716689633.518176
-sensor_id: 3, tipo: humo, valor: True, timestamp: 1716689635.475777
-sensor_id: 1, tipo: humo, valor: True, timestamp: 1716689639.4313176
-sensor_id: 6, tipo: humo, valor: False, timestamp: 1716689639.5414262
-sensor_id: 8, tipo: humo, valor: True, timestamp: 1716689641.5468044
-sensor_id: 5, tipo: humo, valor: True, timestamp: 1716689641.4706228
-sensor_id: 9, tipo: humo, valor: True, timestamp: 1716689640.5750594
-sensor_id: 10, tipo: humo, valor: True, timestamp: 1716689640.5591743
-sensor_id: 7, tipo: humo, valor: False, timestamp: 1716689638.5317938
-sensor_id: 3, tipo: humo, valor: True, timestamp: 1716689640.482523
-sensor_id: 7, tipo: humo, valor: False, timestamp: 1716689642.5380487
-sensor_id: 4, tipo: humo, valor: True, timestamp: 1716689630.3666914
-sensor_id: 4, tipo: humo, valor: False, timestamp: 1716689636.3734837
-sensor_id: 4, tipo: humo, valor: True, timestamp: 1716689640.374773
-sensor_id: 4, tipo: humo, valor: True, timestamp: 1716689643.383968
-sensor_id: 3, tipo: humo, valor: False, timestamp: 1716689643.49258
-sensor_id: 6, tipo: humo, valor: False, timestamp: 1716689643.5530818
-sensor_id: 9, tipo: humo, valor: True, timestamp: 1716689643.58315
-sensor_id: 1, tipo: humo, valor: True, timestamp: 1716689644.4380043
-Promedio de humedad: 77.5338729016017%
-sensor_id: 10, tipo: humo, valor: False, timestamp: 1716689645.5746999
-sensor_id: 8, tipo: humo, valor: True, timestamp: 1716689646.5549135
-sensor_id: 6, tipo: humo, valor: False, timestamp: 1716689646.5549135
-sensor_id: 9, tipo: humo, valor: False, timestamp: 1716689646.5862958
-sensor_id: 4, tipo: humo, valor: True, timestamp: 1716689647.3924248
-sensor_id: 2, tipo: humo, valor: False, timestamp: 1716689647.4222052
-sensor_id: 5, tipo: humo, valor: False, timestamp: 1716689647.484811
-sensor_id: 3, tipo: humo, valor: False, timestamp: 1716689648.5017447
-sensor_id: 7, tipo: humo, valor: False, timestamp: 1716689648.54736
-sensor_id: 9, tipo: humo, valor: True, timestamp: 1716689649.5992634
-Promedio de humedad: 74.56414213834067%
-sensor_id: 4, tipo: humo, valor: False, timestamp: 1716689650.407487
-sensor_id: 1, tipo: humo, valor: False, timestamp: 1716689650.4387472
-sensor_id: 10, tipo: humo, valor: False, timestamp: 1716689650.5788329
-sensor_id: 2, tipo: humo, valor: False, timestamp: 1716689651.4319725
-sensor_id: 7, tipo: humo, valor: False, timestamp: 1716689651.5544374
-sensor_id: 8, tipo: humo, valor: False, timestamp: 1716689651.569943
-sensor_id: 3, tipo: humo, valor: True, timestamp: 1716689652.516619
-sensor_id: 6, tipo: humo, valor: True, timestamp: 1716689652.5630388
-sensor_id: 9, tipo: humo, valor: False, timestamp: 1716689652.6096902
-sensor_id: 1, tipo: humo, valor: True, timestamp: 1716689653.4476304
-sensor_id: 5, tipo: humo, valor: True, timestamp: 1716689653.4929588
-Promedio de humedad: 73.16461703813238%
-sensor_id: 4, tipo: humo, valor: False, timestamp: 1716689655.4086013
-sensor_id: 2, tipo: humo, valor: False, timestamp: 1716689655.439588
-sensor_id: 3, tipo: humo, valor: True, timestamp: 1716689655.53216
-sensor_id: 7, tipo: humo, valor: True, timestamp: 1716689656.5576007
-sensor_id: 6, tipo: humo, valor: True, timestamp: 1716689656.5727308
-sensor_id: 10, tipo: humo, valor: False, timestamp: 1716689656.5883584
-sensor_id: 1, tipo: humo, valor: False, timestamp: 1716689657.4633827
-sensor_id: 8, tipo: humo, valor: True, timestamp: 1716689657.5718307
-sensor_id: 2, tipo: humo, valor: False, timestamp: 1716689658.4431772
-sensor_id: 5, tipo: humo, valor: True, timestamp: 1716689658.504974
-sensor_id: 9, tipo: humo, valor: True, timestamp: 1716689658.6128962
-sensor_id: 4, tipo: humo, valor: True, timestamp: 1716689659.4164877
-sensor_id: 6, tipo: humo, valor: False, timestamp: 1716689659.5868518
-Promedio de humedad: 80.39664450109908%
-sensor_id: 7, tipo: humo, valor: False, timestamp: 1716689660.568412
-sensor_id: 3, tipo: humo, valor: False, timestamp: 1716689661.5425725
-sensor_id: 10, tipo: humo, valor: False, timestamp: 1716689661.6041486
-sensor_id: 9, tipo: humo, valor: False, timestamp: 1716689661.6195343
-Promedio mensual de humedad: 75.36825991306986%
-sensor_id: 1, tipo: humo, valor: True, timestamp: 1716689662.4736366
-sensor_id: 8, tipo: humo, valor: True, timestamp: 1716689662.5838006
-sensor_id: 6, tipo: humo, valor: False, timestamp: 1716689663.5876274
-sensor_id: 4, tipo: humo, valor: True, timestamp: 1716689664.4212177
-sensor_id: 2, tipo: humo, valor: True, timestamp: 1716689664.4525297
-sensor_id: 5, tipo: humo, valor: False, timestamp: 1716689664.5144265
-sensor_id: 3, tipo: humo, valor: False, timestamp: 1716689664.545394
-Promedio de humedad: 81.61687405754905%
-sensor_id: 8, tipo: humo, valor: False, timestamp: 1716689665.5879302
-sensor_id: 1, tipo: humo, valor: True, timestamp: 1716689666.474818
-sensor_id: 7, tipo: humo, valor: True, timestamp: 1716689666.5841372
-sensor_id: 4, tipo: humo, valor: True, timestamp: 1716689667.4324245
-sensor_id: 5, tipo: humo, valor: True, timestamp: 1716689667.5252943
-sensor_id: 10, tipo: humo, valor: True, timestamp: 1716689667.6177146
-sensor_id: 9, tipo: humo, valor: False, timestamp: 1716689667.6332567
-sensor_id: 3, tipo: humo, valor: True, timestamp: 1716689668.5482905
-sensor_id: 6, tipo: humo, valor: True, timestamp: 1716689668.5948026
-Promedio de humedad: 77.55241017026447%
-sensor_id: 4, tipo: humo, valor: True, timestamp: 1716689670.434781
-sensor_id: 2, tipo: humo, valor: True, timestamp: 1716689670.4657161
-sensor_id: 1, tipo: humo, valor: False, timestamp: 1716689670.4806738
-sensor_id: 5, tipo: humo, valor: True, timestamp: 1716689670.5276322
-sensor_id: 7, tipo: humo, valor: True, timestamp: 1716689670.5892868
-sensor_id: 8, tipo: humo, valor: True, timestamp: 1716689670.5892868
-sensor_id: 10, tipo: humo, valor: True, timestamp: 1716689671.632872
-sensor_id: 1, tipo: humo, valor: False, timestamp: 1716689673.493203
-sensor_id: 8, tipo: humo, valor: False, timestamp: 1716689673.6022198
-sensor_id: 9, tipo: humo, valor: False, timestamp: 1716689673.6345973
-sensor_id: 4, tipo: humo, valor: True, timestamp: 1716689674.4408433
-sensor_id: 2, tipo: humo, valor: False, timestamp: 1716689674.471784
-sensor_id: 5, tipo: humo, valor: True, timestamp: 1716689674.5335193
-sensor_id: 3, tipo: humo, valor: True, timestamp: 1716689674.564515
-sensor_id: 6, tipo: humo, valor: False, timestamp: 1716689674.595932
+Alerta alta temperatura: 30.602314838799924° sensor: 14 a las Mon May 27 11:55:53 2024
+Alerta alta temperatura: 29.94454426844225° sensor: 14 a las Mon May 27 11:55:59 2024
+Alerta alta temperatura: 34.857409356968475° sensor: 14 a las Mon May 27 11:56:05 2024
+Alerta alta temperatura: 30.251380011917885° sensor: 14 a las Mon May 27 11:56:11 2024
+Alerta alta temperatura: 37.77204409750316° sensor: 14 a las Mon May 27 11:56:17 2024
+Alerta alta temperatura: 32.28415715740834° sensor: 14 a las Mon May 27 11:56:29 2024
+Alerta alta temperatura: 36.86175206568785° sensor: 14 a las Mon May 27 11:56:35 2024
+Alerta alta temperatura: 30.919755879090882° sensor: 14 a las Mon May 27 11:56:41 2024
+Alerta alta temperatura: 35.62208567938944° sensor: 16 a las Mon May 27 11:57:29 2024
+Alerta alta temperatura: 30.47123053748204° sensor: 12 a las Mon May 27 11:55:47 2024
+Alerta alta temperatura: 30.057449233164768° sensor: 13 a las Mon May 27 11:55:47 2024
+Alerta alta temperatura: 31.5573830027056° sensor: 12 a las Mon May 27 11:55:53 2024
+Alerta alta temperatura: 33.691287419474826° sensor: 12 a las Mon May 27 11:55:59 2024
+Alerta alta temperatura: 34.18982211069355° sensor: 12 a las Mon May 27 11:56:05 2024
+Alerta alta temperatura: 29.6229785949429° sensor: 12 a las Mon May 27 11:56:11 2024
+Alerta alta temperatura: 33.99705912393293° sensor: 12 a las Mon May 27 11:56:17 2024
+Alerta alta temperatura: 30.94255200874665° sensor: 13 a las Mon May 27 11:56:23 2024
+Alerta alta temperatura: 31.38542688687638° sensor: 13 a las Mon May 27 11:56:29 2024
+Alerta alta temperatura: 30.032950264507388° sensor: 13 a las Mon May 27 11:56:35 2024
+Alerta alta temperatura: 33.82164317251445° sensor: 13 a las Mon May 27 11:56:41 2024
+Alerta alta temperatura: 36.286490691956125° sensor: 13 a las Mon May 27 11:56:47 2024
+Alerta alta temperatura: 29.566234316080546° sensor: 12 a las Mon May 27 11:56:53 2024
+Alerta alta temperatura: 35.904488381574275° sensor: 13 a las Mon May 27 11:56:59 2024
+Alerta alta temperatura: 37.2481659655013° sensor: 13 a las Mon May 27 11:57:05 2024
+Alerta alta temperatura: 36.86051402662143° sensor: 13 a las Mon May 27 11:57:11 2024
+Alerta alta temperatura: 30.582109387024314° sensor: 13 a las Mon May 27 11:57:17 2024
+Alerta alta temperatura: 33.95781347493047° sensor: 13 a las Mon May 27 11:57:23 2024
+Alerta alta temperatura: 37.395545365862006° sensor: 12 a las Mon May 27 11:57:29 2024
+Alerta alta temperatura: 33.43415908055047° sensor: 12 a las Mon May 27 11:57:35 2024
+Alerta alta temperatura: 34.544661577434795° sensor: 20 a las Mon May 27 11:55:47 2024
+Alerta alta temperatura: 33.71912910482585° sensor: 20 a las Mon May 27 11:55:53 2024
+Alerta alta temperatura: 30.43001369100628° sensor: 20 a las Mon May 27 11:55:59 2024
+Alerta alta temperatura: 31.99236709490184° sensor: 20 a las Mon May 27 11:56:05 2024
+Alerta alta temperatura: 29.68418203079971° sensor: 20 a las Mon May 27 11:56:11 2024
+Alerta alta temperatura: 30.608773067599977° sensor: 20 a las Mon May 27 11:56:17 2024
+Alerta alta temperatura: 30.36604419463694° sensor: 15 a las Mon May 27 11:56:23 2024
+Alerta alta temperatura: 31.302074754873193° sensor: 20 a las Mon May 27 11:56:23 2024
+Alerta alta temperatura: 36.2989624718654° sensor: 20 a las Mon May 27 11:56:29 2024
+Alerta alta temperatura: 37.0393677327666° sensor: 20 a las Mon May 27 11:56:35 2024
+Alerta alta temperatura: 29.998609939156974° sensor: 20 a las Mon May 27 11:56:41 2024
+Alerta alta temperatura: 32.13930360177855° sensor: 15 a las Mon May 27 11:56:47 2024
+Alerta alta temperatura: 30.72666495808152° sensor: 20 a las Mon May 27 11:56:47 2024
+Alerta alta temperatura: 31.797474600924776° sensor: 15 a las Mon May 27 11:56:53 2024
+Alerta alta temperatura: 34.0878502546353° sensor: 20 a las Mon May 27 11:56:53 2024
+Alerta alta temperatura: 29.774936288009197° sensor: 15 a las Mon May 27 11:56:59 2024
+Alerta alta temperatura: 31.40713753151144° sensor: 20 a las Mon May 27 11:56:59 2024
+Alerta alta temperatura: 34.572546393337134° sensor: 15 a las Mon May 27 11:57:05 2024
+Alerta alta temperatura: 34.86088752343738° sensor: 20 a las Mon May 27 11:57:05 2024
+Alerta alta temperatura: 37.26146885546465° sensor: 20 a las Mon May 27 11:57:11 2024
+Alerta alta temperatura: 31.062158199412355° sensor: 15 a las Mon May 27 11:57:11 2024
+Alerta alta temperatura: 34.58547831858031° sensor: 15 a las Mon May 27 11:57:17 2024
+Alerta alta temperatura: 29.848051986247246° sensor: 20 a las Mon May 27 11:57:17 2024
+Alerta alta temperatura: 30.849060344527746° sensor: 15 a las Mon May 27 11:57:23 2024
+Alerta alta temperatura: 34.755154451289876° sensor: 20 a las Mon May 27 11:57:23 2024
+Alerta alta temperatura: 35.535047490947015° sensor: 20 a las Mon May 27 11:57:29 2024
+Alerta alta temperatura: 34.96846859334838° sensor: 15 a las Mon May 27 11:57:35 2024
+Alerta alta temperatura: 34.228976039140875° sensor: 20 a las Mon May 27 11:57:35 2024
+Promedio de humedad: 76.46051996666893%
+Alerta alta temperatura: 34.496368578131985° sensor: 20 a las Mon May 27 11:57:41 2024
+Alerta alta temperatura: 34.94645630897485° sensor: 15 a las Mon May 27 11:57:41 2024
+Alerta alta temperatura: 32.11225286458407° sensor: 13 a las Mon May 27 11:57:41 2024
+Promedio de humedad: 79.55250517473328%
+Alerta alta temperatura: 36.4662487540489° sensor: 20 a las Mon May 27 11:57:47 2024
+Alerta alta temperatura: 33.89454638326653° sensor: 14 a las Mon May 27 11:57:47 2024
+Alerta alta temperatura: 36.73474773006926° sensor: 15 a las Mon May 27 11:57:47 2024
+Promedio de humedad: 72.69942428389027%
+Alerta alta temperatura: 29.622827606570393° sensor: 20 a las Mon May 27 11:57:53 2024
+Alerta alta temperatura: 31.225612867478336° sensor: 14 a las Mon May 27 11:57:53 2024
+Alerta alta temperatura: 34.3373287833902° sensor: 13 a las Mon May 27 11:57:53 2024
+Promedio de humedad: 74.68950672137865%
+Alerta alta temperatura: 37.42561491975983° sensor: 20 a las Mon May 27 11:57:59 2024
+Alerta alta temperatura: 32.882320595031985° sensor: 14 a las Mon May 27 11:57:59 2024
+Alerta alta temperatura: 31.492768049692792° sensor: 13 a las Mon May 27 11:57:59 2024
+Promedio mensual de humedad: 75.85048903666778%
+Promedio de humedad: 73.33978105071151%
+Promedio de humedad: 77.11810295819102%
+Alerta alta temperatura: 29.969071101504095° sensor: 20 a las Mon May 27 11:58:05 2024
+Alerta alta temperatura: 32.08089392769687° sensor: 15 a las Mon May 27 11:58:05 2024
+Alerta alta temperatura: 30.7663845101821° sensor: 12 a las Mon May 27 11:58:05 2024
+Promedio de humedad: 77.17411295519642%
+Alerta alta temperatura: 33.90897423295522° sensor: 20 a las Mon May 27 11:58:11 2024
+Alerta alta temperatura: 30.724116327779306° sensor: 13 a las Mon May 27 11:58:11 2024
+Alerta alta temperatura: 31.979265264036098° sensor: 16 a las Mon May 27 11:58:11 2024
+Promedio de humedad: 78.4790184745265%
+Alerta alta temperatura: 36.38338555404514° sensor: 20 a las Mon May 27 11:58:17 2024
+Alerta alta temperatura: 36.50912435785554° sensor: 12 a las Mon May 27 11:58:17 2024
+Alerta alta temperatura: 34.751800080447374° sensor: 16 a las Mon May 27 11:58:17 2024
+Promedio mensual de humedad: 76.52775385965636%
+Promedio de humedad: 76.37172648112276%
+Alerta alta temperatura: 37.22931537410123° sensor: 20 a las Mon May 27 11:58:23 2024
+Alerta alta temperatura: 35.87657477264091° sensor: 12 a las Mon May 27 11:58:23 2024
+Alerta alta temperatura: 33.22862061593012° sensor: 13 a las Mon May 27 11:58:23 2024
+Promedio de humedad: 73.82470772019278%
+Alerta alta temperatura: 36.65389534522831° sensor: 20 a las Mon May 27 11:58:29 2024
+Alerta alta temperatura: 29.64084804954539° sensor: 12 a las Mon May 27 11:58:29 2024
+Alerta alta temperatura: 30.99187518968309° sensor: 13 a las Mon May 27 11:58:29 2024
+Promedio de humedad: 76.5803718960304%
+Promedio de humedad: 74.63635817594479%
+Alerta alta temperatura: 34.81708008111898° sensor: 20 a las Mon May 27 11:58:35 2024
+Alerta alta temperatura: 33.42704758959135° sensor: 14 a las Mon May 27 11:58:35 2024
+Alerta alta temperatura: 31.79571409497367° sensor: 15 a las Mon May 27 11:58:35 2024
+Promedio de humedad: 79.66051181034302%
+Alerta alta temperatura: 35.4971043651437° sensor: 20 a las Mon May 27 11:58:41 2024
+Alerta alta temperatura: 33.714391655361524° sensor: 15 a las Mon May 27 11:58:41 2024
+Alerta alta temperatura: 29.649281318775657° sensor: 14 a las Mon May 27 11:58:41 2024
+Promedio de humedad: 72.8163323128894%
+Alerta alta temperatura: 34.46113329256343° sensor: 20 a las Mon May 27 11:58:47 2024
+Alerta alta temperatura: 36.82183235929469° sensor: 13 a las Mon May 27 11:58:47 2024
+Alerta alta temperatura: 36.36916892013123° sensor: 14 a las Mon May 27 11:58:47 2024
+Promedio de humedad: 81.37724414380334%
+Alerta alta temperatura: 30.0011554580009° sensor: 20 a las Mon May 27 11:58:53 2024
+Alerta alta temperatura: 32.408559962931754° sensor: 13 a las Mon May 27 11:58:53 2024
+Alerta alta temperatura: 33.437274581629836° sensor: 14 a las Mon May 27 11:58:53 2024
+Promedio de humedad: 76.52206166357658%
+Alerta alta temperatura: 36.39790185900587° sensor: 20 a las Mon May 27 11:58:59 2024
+Alerta alta temperatura: 34.333153714144174° sensor: 14 a las Mon May 27 11:58:59 2024
+Alerta alta temperatura: 34.58008660601578° sensor: 17 a las Mon May 27 11:58:59 2024
+Promedio de humedad: 70.26239536156513%
+Promedio de humedad: 71.36124383490117%
+Alerta alta temperatura: 34.719304428843735° sensor: 20 a las Mon May 27 11:59:05 2024
+Alerta alta temperatura: 32.06484488992939° sensor: 15 a las Mon May 27 11:59:05 2024
+Alerta alta temperatura: 36.596447019350535° sensor: 17 a las Mon May 27 11:59:05 2024
+Promedio de humedad: 78.23271019978722%
+Alerta alta temperatura: 31.803931406946916° sensor: 20 a las Mon May 27 11:59:11 2024
+Alerta alta temperatura: 34.36604232225527° sensor: 15 a las Mon May 27 11:59:11 2024
+Alerta alta temperatura: 35.26335876549795° sensor: 16 a las Mon May 27 11:59:11 2024
+Promedio de humedad: 76.41117198181529%
+Alerta alta temperatura: 34.52595869937079° sensor: 20 a las Mon May 27 11:59:17 2024
+Alerta alta temperatura: 30.06196746151431° sensor: 16 a las Mon May 27 11:59:17 2024
+Alerta alta temperatura: 31.941363769204067° sensor: 15 a las Mon May 27 11:59:17 2024
+Promedio de humedad: 78.14414157760642%
+Alerta alta temperatura: 33.713845646797196° sensor: 20 a las Mon May 27 11:59:23 2024
+Alerta alta temperatura: 35.33675633761274° sensor: 15 a las Mon May 27 11:59:23 2024
+Alerta alta temperatura: 34.37263258916372° sensor: 16 a las Mon May 27 11:59:23 2024
+Promedio de humedad: 75.84306351903456%
+Promedio mensual de humedad: 75.82094724596078%
+Actuador aspersor activado por sensor 2 a las Mon May 27 11:59:28 2024
+
+Alerta alta temperatura: 34.04199105515886° sensor: 15 a las Mon May 27 12:00:17 2024
+Alerta alta temperatura: 32.18665829692343° sensor: 20 a las Mon May 27 12:00:17 2024
+Alerta alta temperatura: 32.82155244497884° sensor: 17 a las Mon May 27 12:00:17 2024
+Alerta alta temperatura: 34.89856188929786° sensor: 20 a las Mon May 27 12:00:23 2024
+Promedio de humedad: 75.20867048462046%
+Alerta alta temperatura: 31.91433787246858° sensor: 17 a las Mon May 27 12:00:23 2024
+Alerta alta temperatura: 29.8435029511912° sensor: 15 a las Mon May 27 12:00:23 2024
+Promedio de humedad: 72.11234336447163%
+Alerta alta temperatura: 32.49861360302896° sensor: 20 a las Mon May 27 12:00:29 2024
+Alerta alta temperatura: 37.3492311497549° sensor: 15 a las Mon May 27 12:00:29 2024
+Alerta alta temperatura: 32.084273302984066° sensor: 17 a las Mon May 27 12:00:29 2024
+Promedio de humedad: 77.88443488901719%
+Promedio mensual de humedad: 75.06848291270309%
+Alerta alta temperatura: 31.87246101323751° sensor: 20 a las Mon May 27 12:00:35 2024
+Alerta alta temperatura: 34.79206128350327° sensor: 16 a las Mon May 27 12:00:35 2024
+Alerta alta temperatura: 37.968169636097294° sensor: 17 a las Mon May 27 12:00:35 2024
+Promedio de humedad: 71.81944399564414%
+Alerta alta temperatura: 29.868084397574492° sensor: 20 a las Mon May 27 12:06:29 2024
+Alerta alta temperatura: 33.34241550376928° sensor: 13 a las Mon May 27 12:06:29 2024
+Alerta alta temperatura: 34.64490780420968° sensor: 16 a las Mon May 27 12:06:29 2024
+Promedio de humedad: 77.86595173922545%
+Alerta alta temperatura: 36.50011484227403° sensor: 20 a las Mon May 27 12:06:35 2024
+Alerta alta temperatura: 37.502878497505236° sensor: 13 a las Mon May 27 12:06:35 2024
+Alerta alta temperatura: 35.63762199504365° sensor: 16 a las Mon May 27 12:06:35 2024
+Promedio mensual de humedad: 77.86595173922545%
+Promedio de humedad: 74.8127321987662%
+Alerta alta temperatura: 36.680493017098335° sensor: 20 a las Mon May 27 12:06:41 2024
+Alerta alta temperatura: 31.429992072527728° sensor: 13 a las Mon May 27 12:06:41 2024
+Alerta alta temperatura: 31.434533933336436° sensor: 16 a las Mon May 27 12:06:41 2024
+Promedio de humedad: 70.67717217792516%
+Alerta alta temperatura: 37.33120908572988° sensor: 20 a las Mon May 27 12:06:47 2024
+Alerta alta temperatura: 30.838000098990513° sensor: 13 a las Mon May 27 12:06:47 2024
+Alerta alta temperatura: 33.65077025769402° sensor: 12 a las Mon May 27 12:06:47 2024
+Promedio de humedad: 73.42509830842496%
+Alerta alta temperatura: 37.799291275560705° sensor: 20 a las Mon May 27 12:06:53 2024
+Alerta alta temperatura: 35.603751938376035° sensor: 13 a las Mon May 27 12:06:53 2024
+Alerta alta temperatura: 37.90540012795362° sensor: 17 a las Mon May 27 12:06:53 2024
+Promedio de humedad: 78.2212880425342%
+Promedio mensual de humedad: 74.28407268191263%
+Promedio de humedad: 74.89507273749261%
+Alerta alta temperatura: 37.355745726761064° sensor: 20 a las Mon May 27 12:06:59 2024
+Alerta alta temperatura: 30.186110183383004° sensor: 13 a las Mon May 27 12:06:59 2024
+Alerta alta temperatura: 34.69322265837688° sensor: 16 a las Mon May 27 12:06:59 2024
+Promedio de humedad: 75.90719031555486%
+Alerta alta temperatura: 33.97924900203386° sensor: 20 a las Mon May 27 12:07:05 2024
+Alerta alta temperatura: 31.38678767783551° sensor: 13 a las Mon May 27 12:07:05 2024
+Alerta alta temperatura: 32.379608876256455° sensor: 17 a las Mon May 27 12:07:05 2024
+Promedio de humedad: 71.39730960524852%
+Alerta alta temperatura: 35.817047981902256° sensor: 20 a las Mon May 27 12:07:11 2024
+Alerta alta temperatura: 33.3602883991731° sensor: 13 a las Mon May 27 12:07:11 2024
+Alerta alta temperatura: 33.6479519018846° sensor: 17 a las Mon May 27 12:07:11 2024
+Promedio de humedad: 76.28136266532229%
+Promedio mensual de humedad: 74.62023383090457%
+Alerta alta temperatura: 29.728698569247083° sensor: 20 a las Mon May 27 12:07:17 2024
+Alerta alta temperatura: 33.106486801727925° sensor: 13 a las Mon May 27 12:07:17 2024
+Alerta alta temperatura: 30.145069374667443° sensor: 17 a las Mon May 27 12:07:17 2024
+Promedio de humedad: 76.67118445534233%
+Alerta alta temperatura: 35.339581321763504° sensor: 20 a las Mon May 27 12:07:23 2024
+Alerta alta temperatura: 35.523790372975384° sensor: 13 a las Mon May 27 12:07:23 2024
+Alerta alta temperatura: 34.50127197654889° sensor: 17 a las Mon May 27 12:07:23 2024
+Promedio de humedad: 79.62316171566076%
+Promedio de humedad: 75.6674635157732%
+Alerta alta temperatura: 30.46727774903647° sensor: 20 a las Mon May 27 12:07:29 2024
+Alerta alta temperatura: 32.33824634693735° sensor: 13 a las Mon May 27 12:07:29 2024
+Alerta alta temperatura: 34.609015872684225° sensor: 12 a las Mon May 27 12:07:29 2024
+Promedio de humedad: 75.8612576354991%
+Alerta alta temperatura: 31.165229102480716° sensor: 20 a las Mon May 27 12:07:35 2024
+Alerta alta temperatura: 34.91461655396147° sensor: 13 a las Mon May 27 12:07:35 2024
+Alerta alta temperatura: 32.63166567637856° sensor: 17 a las Mon May 27 12:07:35 2024
+Promedio mensual de humedad: 76.95576683056885%
+Promedio de humedad: 74.00164124625186%

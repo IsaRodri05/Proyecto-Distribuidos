@@ -10,7 +10,7 @@ receiver.bind("tcp://*:5556")  # Este puerto debe coincidir con el puerto de con
 
 # Configuración para enviar alertas al sistema de calidad
 sender_calidad = context.socket(zmq.PUSH)
-sender_calidad.connect("tcp://localhost:5558")  # Sistema de calidad
+sender_calidad.connect("tcp://localhost:5558")  # Sistema de calidad en la capa Cloud
 
 # Buffers para mantener las humedades recibidas del proxy
 humedades_recibidas = deque()

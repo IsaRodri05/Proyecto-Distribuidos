@@ -10,11 +10,6 @@ def actuador_aspersor():
     while True:
         mensaje = receiver.recv_string()
         print(f"Recibido: {mensaje}")
-       #partes = mensaje.split(', ')
-        #tipo = partes[1].split(': ')[1]
-        #valor = partes[2].split(': ')[1]
-
-        #if tipo == "humo" and valor == "True":
         print("Actuador aspersor activado debido a la detección de humo.")
 
 # Iniciar el actuador aspersor
